@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Treasure {
+public class bj1026 {
 	public static int functionS(int[] A, int[] B) {
 		int minS=0;
 		// A는 재배열 후 갱신하고, B의 수는 재배열하되 B 자체를 바꾸지 않고 B2를 만듦.
