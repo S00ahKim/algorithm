@@ -3,7 +3,7 @@ import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class VocabSort {
+public class bj1181 {
 	
 	public static void vocaSort(String[] arr) {
 		/* (먼저) 사전 순으로 정렬 ---> compareTo 사용하여 음수인 걸 앞에 둔다.
