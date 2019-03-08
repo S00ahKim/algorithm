@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-public class InsertionSort {
+
+// insertion sort
+
+public class bj2750_i {
 	public static void insertionSort(int[] list){
 		int tmp = 0;
         int j = 0;

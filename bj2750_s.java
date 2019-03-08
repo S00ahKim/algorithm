@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class SelectionSort {
+// selection sort
+
+public class bj2750_s {
 	public static void selectionSort(int[] list){
 		for (int j=0; j<list.length-1;j++) { 
 			int min=j; //
